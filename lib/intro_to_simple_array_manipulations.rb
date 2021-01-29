@@ -5,3 +5,15 @@ end
 def using_unshift(array, string)
   array.unshift(string)
 end
+
+def
+
+end
+
+def
+
+end
+
+def
+
+end
