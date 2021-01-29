@@ -14,6 +14,6 @@ def(array, string)
 
 end
 
-def
+def(array, string)
 
 end
